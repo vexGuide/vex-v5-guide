@@ -4,7 +4,7 @@ int main(void) {
     //notice how it is not initialized because we don’t need to yet
 	
     if(age >= 16) {
-		canDrive = true;
+	    canDrive = true;
     } 
     else {
         canDrive = false;
