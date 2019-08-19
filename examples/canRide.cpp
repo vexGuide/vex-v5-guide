@@ -15,4 +15,5 @@ int main(void) {
 		canRide = false;
 		std::cout << “You cannot ride.”;
 	}
+	return 0;
 }
