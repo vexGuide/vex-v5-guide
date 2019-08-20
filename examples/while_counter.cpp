@@ -5,5 +5,6 @@ int main(void)
 	while(a < 10) { //if a is less than 10, keep going
 		a = a + 1;
 	}
+	std::cout << a;
 	return 0;
 }
