@@ -1,6 +1,5 @@
 #include <iostream>
-int main(void)
-{
+int main(void) {
 	int add = 10+5;     //add 10 and 5; total of 15
 	std::cout << add << endl;
 	//ignore “std::cout” lines, they print the result
